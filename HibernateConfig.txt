@@ -1,0 +1,5 @@
+baseName = "FinalProject";
+ipAddress = "localhost";
+ipPort = "5432";
+baseLogin = "FinalProject";
+basePass  = "FinalProject";
